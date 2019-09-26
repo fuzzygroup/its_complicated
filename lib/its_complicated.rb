@@ -4,7 +4,7 @@ module ItsComplicated
   class Error < StandardError; end
   # Your code goes here...
   
-  def gender_options
+  def self.gender_options
     [
       'Prefer Not to Say',
       'Female',
