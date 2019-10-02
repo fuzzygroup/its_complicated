@@ -23,11 +23,9 @@ Knowing the folks that I do made me feel skeevy about a binary gender field.  An
 
 Here's an example of how this might look in a user registration work flow.  The first picture shows the state of user registration prior to gender selection and the second picture shows the Its Complicated gem being dropped down with options (note - this was taken before the list of options was finalized):
 
-{:.center}
 ![its_complicated_example1.png](https://fuzzyblog.io/blog/assets/its_complicated_example1.png)
 
 
-{:.center}
 ![its_complicated_example1.png](https://fuzzyblog.io/blog/assets/its_complicated_example2.png)
 
 
