@@ -21,14 +21,24 @@ I hang on the Internet with a fairly diverse group of folks and I've been gettin
 
 Knowing the folks that I do made me feel skeevy about a binary gender field.  And that made me go "Wait a minute, I can write this ...".
 
+Here's an example of how this might look in a user registration work flow.  The first picture shows the state of user registration prior to gender selection and the second picture shows the Its Complicated gem being dropped down with options (note - this was taken before the list of options was finalized):
+
+{:.center}
+![its_complicated_example1.png](https://fuzzyblog.io/blog/assets/its_complicated_example1.png)
+
+
+{:.center}
+![its_complicated_example1.png](https://fuzzyblog.io/blog/assets/its_complicated_example2.png)
+
+
 ## Thank You's
 
 This project could not have been built without a lot of help and support along the way:
 
 * Shelley Johnson, my wife and best supporter ever
 * Lexi Taylor - a good friend who gave me the first cut at the list and vetted the name of the project
-* Lisa Meece - the chair person of [StarBase Indy](https://www.starbaseindy.org), the best science fiction and stem conference in Indianapolis (coming Thanksgiving weekend 2019)
-* Jeana Jorgensen - an awesome professor at Butler and a reviewer of the list and someone who has strongly influenced my thinking in these areas
+* [Lisa Meece](https://www.lisameece.com/) - the chair person of [StarBase Indy](https://www.starbaseindy.org), the best science fiction and stem conference in Indianapolis (coming Thanksgiving weekend 2019)
+* [Jeana Jorgensen](https://twitter.com/foxyfolklorist?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) - an awesome professor at Butler and a reviewer of the list and someone who has strongly influenced my thinking in these areas
 
 ## Using This in Your Stuff?
 
