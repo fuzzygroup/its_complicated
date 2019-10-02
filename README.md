@@ -35,7 +35,7 @@ This project could not have been built without a lot of help and support along t
 
 * Shelley Johnson, my wife and best supporter ever
 * Lexi Taylor - a good friend who gave me the first cut at the list and vetted the name of the project
-* [Lisa Meece](https://www.lisameece.com/) - the chair person of [StarBase Indy](https://www.starbaseindy.org), the best science fiction and stem conference in Indianapolis (coming Thanksgiving weekend 2019)
+* [Lisa Meece](https://www.lisameece.com/) - the chair person of [Starbase Indy](https://www.starbaseindy.org), the best science fiction and stem conference in Indianapolis (coming Thanksgiving weekend 2019)
 * [Jeana Jorgensen](https://twitter.com/foxyfolklorist?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) - an awesome professor at Butler and a reviewer of the list and someone who has strongly influenced my thinking in these areas
 
 ## Using This in Your Stuff?
