@@ -13,7 +13,7 @@ This project assumes that you are storing a gender field in your database (gener
 * Female
 * Male
 
-and then descends into a long, long list of options.
+and then descends into a long, long list of options.  My personal favorite is [Two-Spirit](https://en.wikipedia.org/wiki/Two-spirit) which is the Native American "third gender" role in their cultures.  Kudos to Lexi Taylor who knew this existed off the top of her head.
 
 ## Why Did I Write This Gem?
 
@@ -25,11 +25,18 @@ Knowing the folks that I do made me feel skeevy about a binary gender field.  An
 
 This project could not have been built without a lot of help and support along the way:
 
-* Shelley Johnson 
+* Shelley Johnson, my wife and best supporter ever
 * Lexi Taylor - a good friend who gave me the first cut at the list and vetted the name of the project
 * Lisa Meece - the chair person of [StarBase Indy](https://www.starbaseindy.org), the best science fiction and stem conference in Indianapolis (coming Thanksgiving weekend 2019)
-* Jeana Jorgensen - an awesome professor at Butler and a reviewer of the list
-* Sean Kennedy - for assistance in writing the gem
+* Jeana Jorgensen - an awesome professor at Butler and a reviewer of the list and someone who has strongly influenced my thinking in these areas
+
+## Using This in Your Stuff?
+
+I'd love to list a link to anyone who is using this.  Here are the sites that currently use this:
+
+* [Change Me Now](https://www.changemenow.io) (currently experimental; email me for access if desired)
+
+Email Scott Johnson - fuzzygroup a[t] gmail.com if you want your site listed here.
 
 ## Contributing
 
